@@ -1,3 +1,3 @@
-#ex001 -  Hello World
+#ex001 -  print hello world
 
 print("Hello, world!")
